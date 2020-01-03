@@ -4,6 +4,13 @@ I am good programmer.
 i like to code.
 I am working on currently on springboot framework.
 
+#Need to work on below technology:
+1) GIT
+2) MAVEN
+3) SpringBoot
+4) Valut
+5) 
+
 Thanks & Regards,
 Sachin Santaji
 +91 8147341759
